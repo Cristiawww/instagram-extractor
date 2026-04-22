@@ -1,0 +1,23 @@
+# Carpetas de salida con datos extraídos
+output_*/
+
+# Archivos de sesión de Instagram (¡nunca subas tus credenciales!)
+*.session
+session-*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+.venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.log
