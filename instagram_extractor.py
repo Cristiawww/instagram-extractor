@@ -1,6 +1,5 @@
 """
 Extractor de datos de Instagram usando RapidAPI (Instagram Scraper Stable API)
-Sin Selenium, sin BeautifulSoup
 Materia: Dispositivos Móviles
 """
 
